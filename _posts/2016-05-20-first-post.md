@@ -1,6 +1,7 @@
 ---
-published: false
-hidden: true
+published: true
+hidden: false
+layout: post
 ---
 ## First Post
 
