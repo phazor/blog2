@@ -3,7 +3,7 @@ published: true
 hidden: false
 layout: post
 ---
-## First Post
+## Hello World
 
 I'm creating this blog because I have a few things that are bursting to be written down. If all goes well, these will make it onto the web over the next few months.
 
