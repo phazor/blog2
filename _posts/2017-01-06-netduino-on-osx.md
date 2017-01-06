@@ -4,7 +4,7 @@ hidden: false
 layout: post
 ---
 
-# Developing for the Netduino Plus 2 in MacOS X
+<!-- ## Developing for the Netduino Plus 2 in MacOS X -->
 
 I was a fan of Netduino, and then I consolidated my dev machines down to a single MacBook Pro. I decided to write this blog on my experience getting a development environment working.
 
